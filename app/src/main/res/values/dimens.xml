@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_params_45">45dp</dimen>
+    <dimen name="view_params_90">90dp</dimen>
+    <dimen name="indentation_10">10dp</dimen>
+    <dimen name="indentation_16">16dp</dimen>
+    <dimen name="indentation_8">8dp</dimen>
+    <dimen name="view_params_23">23dp</dimen>
+    <dimen name="view_params_20">20dp</dimen>
+    <dimen name="view_params_10">10dp</dimen>
+    <dimen name="view_params_76">76dp</dimen>
+    <dimen name="indentation_20">20dp</dimen>
+    <dimen name="view_params_200">200dp</dimen>
+    <dimen name="view_params_100">100dp</dimen>
+    <dimen name="vew_params_300">300dp</dimen>
+    <dimen name="indentation_6">6dp</dimen>
+    <dimen name="indentation_30">30dp</dimen>
+    <dimen name="indentation_50">50dp</dimen>
+    <dimen name="indentation_24">24dp</dimen>
+    <dimen name="indentation_4">4dp</dimen>
+    <dimen name="indentation_230">230dp</dimen>
+    <dimen name="vew_params_230">230dp</dimen>
+</resources>
